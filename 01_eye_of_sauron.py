@@ -12,8 +12,6 @@ def draw():
     pyxel.circ(80, 60, 5, 0)
     pyxel.blt(66, 90, 0, 0, 0, 16, 16, 0)
 
-
-
 pyxel.init(160, 120, caption="Eye of Sauron")
 pyxel.load('01_eye_of_sauron.pyxel')
 pyxel.run(update, draw)
