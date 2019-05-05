@@ -10,6 +10,8 @@ Quick and small tests with the [Pyxel](https://github.com/kitao/pyxel) framework
 |------|-------|
 | Eye of Sauron | ![Eye of Sauron][eye_of_sauron] |
 | Greek Flag | ![Greek Flag][greek_flag] |
+| Clown Chase | ![Clown Chase][clown_chase] |
 
 [eye_of_sauron]: https://github.com/gedimitr/pyxel_playground/blob/master/screenshots/01_eye_of_sauron.png
 [greek_flag]: https://github.com/gedimitr/pyxel_playground/blob/master/screenshots/02_greek_flag.png
+[clown_chase]: https://github.com/gedimitr/pyxel_playground/blob/master/screenshots/03_clown_chase.gif
